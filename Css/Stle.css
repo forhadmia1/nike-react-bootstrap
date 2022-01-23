@@ -1,0 +1,21 @@
+/* import font here  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto&display=swap');
+/*=============================
+     custom css style  
+===============================*/
+body{
+    background-color: #E5E5E5;
+}
+.p-title-color{
+    color: #FA804C;
+}
+.title-secondary{
+    color: #363958;
+}
+.buy-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);;
+}
+.image-bg{
+    background-color: #F1F1F1;
+   height: 300px;
+}
